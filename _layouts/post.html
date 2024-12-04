@@ -101,8 +101,8 @@ layout: default
   {% include mathjax_support.html %}
 {% endif %}
 
-<!--{% if site.netease_comment %}-->
-<!--<!-- 网易云跟帖JS代码 start -->-->
+{% if site.netease_comment %}
+<!-- 网易云跟帖JS代码 start -->
 <!--<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>-->
 <!--<script>-->
 <!--  var cloudTieConfig = {-->
@@ -114,8 +114,8 @@ layout: default
 <!--  var yunManualLoad = true;-->
 <!--  Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);-->
 <!--</script>-->
-<!--<!-- 网易云跟帖JS代码 end -->-->
-<!--{% endif %}-->
+<!-- 网易云跟帖JS代码 end -->
+{% endif %}
 
 
 {% if site.disqus_username %}
