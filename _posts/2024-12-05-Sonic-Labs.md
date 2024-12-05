@@ -9,7 +9,8 @@ tags:
     - Airdrop
 ---
 
-[**CLAIM AIRDROP**](https://odyssey.sonic.game/?join=aoYCdm)
+# [**Claim AirDrop**](https://odyssey.sonic.game/?join=aoYCdm)
+
 
 #### What is Sonic Labs?
 Sonic Labs is developing a layer-1 platform that aims to provide fast settlement for digital assets with over 10,000 TPS and one-second transaction confirmation times. The platform features a secure gateway to Ethereum and is designed to handle high-performance blockchain operations. With its testnet phases underway, Sonic Labs is preparing for its mainnet launch while gathering valuable user feedback and testing its infrastructure.
